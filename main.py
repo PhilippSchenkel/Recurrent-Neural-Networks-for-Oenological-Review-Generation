@@ -73,8 +73,8 @@ batch_size = 1500#00
 mini_batch_size = 128#512
 train_seq_length = 40
 
-val_split = 0.01
-test_split = 0.01
+val_split = 0.33
+test_split = 0.25
 
 OOVToken = 'OOV'
 NumberOfSamplesComputed = 20#50
