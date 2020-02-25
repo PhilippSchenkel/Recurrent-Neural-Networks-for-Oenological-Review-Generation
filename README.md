@@ -3,3 +3,5 @@ Create a directory data:
 	Insert GLOVE embedding (pretrained on Wikipedia) from https://nlp.stanford.edu/projects/glove/
 	
 Create a directory results
+
+Run the file main.py
